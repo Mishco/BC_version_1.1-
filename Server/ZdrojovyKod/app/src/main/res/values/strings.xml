@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS_chatPC</string>
+    <string name="send_name">SenderSms</string>
+    <string name="make_call">MakeCall</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

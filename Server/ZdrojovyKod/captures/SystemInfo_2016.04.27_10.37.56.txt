@@ -1,0 +1,87 @@
+Applications Graphics Acceleration Info:
+Uptime: 72218906 Realtime: 241809168
+
+** Graphics info for pid 8868 [com.example.michal.sms_chatpc] **
+
+Recent DisplayList operations
+          DrawDisplayList
+          RestoreToCount
+        DrawPatch
+      DrawDisplayList
+      DrawPatch
+  RestoreToCount
+DrawRect
+DrawPatch
+DrawText
+DrawRect
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        DrawDisplayList
+          Save
+          ClipRect
+          DrawDisplayList
+          DrawDisplayList
+            SetupColorFilter
+            DrawPatch
+            ResetColorFilter
+            Save
+            ClipRect
+            Translate
+            SetupColorFilter
+            DrawRect
+            ResetColorFilter
+            DrawDisplayList
+              DrawText
+            RestoreToCount
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          DrawDisplayList
+          RestoreToCount
+        DrawPatch
+      DrawDisplayList
+      DrawPatch
+  RestoreToCount
+DrawRect
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            32384 / 25165824
+  LayerCache                  0 / 16777216
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TextDropShadowCache         0 /  2097152
+  PatchCache               3840 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  560512 bytes, 0.53 MB
+
+Profile data in ms:
+
+	com.example.michal.sms_chatpc/com.example.michal.sms_chatpc.MainActivity/android.view.ViewRootImpl@41ba4b10
+View hierarchy:
+
+  com.example.michal.sms_chatpc/com.example.michal.sms_chatpc.MainActivity/android.view.ViewRootImpl@41ba4b10
+  25 views, 4,56 kB of display lists, 176 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        25
+Total DisplayList:  4,56 kB
+

@@ -1,0 +1,32 @@
+Applications Memory Usage (kB):
+Uptime: 71279384 Realtime: 240869646
+
+** MEMINFO in pid 2782 [com.example.michal.sms_chatpc] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap        0        0        0        0     3576     3485       50
+  Dalvik Heap     2982     2804        0       36     6832     3007     3825
+ Dalvik Other     1373     1200        0     1152                           
+        Stack       28       28        0       12                           
+    Other dev     8195     5124      776        0                           
+     .so mmap     1158      540       76     2572                           
+    .apk mmap      282        0      164        0                           
+    .ttf mmap       11        0        4        0                           
+    .dex mmap     3450       40     2056       44                           
+   Other mmap       27        8        0        0                           
+      Unknown     1924     1916        0      300                           
+        TOTAL    19430    11660     3076     4116    10408     6492     3875
+ 
+ Objects
+               Views:       26         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        3        AssetManagers:        3
+       Local Binders:       10        Proxy Binders:       18
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

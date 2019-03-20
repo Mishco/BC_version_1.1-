@@ -1,0 +1,76 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.example.michal.sms_chatpc / u0a105:
+      * com.example.michal.sms_chatpc / u0a105:
+               TOTAL: 15% (15MB-19MB-28MB/12MB-14MB-23MB over 49)
+                 Top: 15% (15MB-19MB-28MB/12MB-14MB-23MB over 49)
+          (Last Act): 0,14%
+            (Cached): 7,6% (2,5MB-7,6MB-19MB/1,9MB-6,4MB-17MB over 8)
+
+Summary:
+  * com.example.michal.sms_chatpc / u0a105:
+           TOTAL: 15% (15MB-19MB-28MB/12MB-14MB-23MB over 49)
+             Top: 15% (15MB-19MB-28MB/12MB-14MB-23MB over 49)
+      (Last Act): 0,14%
+        (Cached): 7,6% (2,5MB-7,6MB-19MB/1,9MB-6,4MB-17MB over 8)
+
+Run time Stats:
+  SOff/Norm: +48m58s669ms
+       Mod : +39m30s900ms
+  SOn /Norm: +7h17m5s85ms
+       Mod : +22m45s316ms
+       Low : +4m25s929ms
+      TOTAL: +9h12m45s899ms
+
+          Start time: 2016-04-26 11:04:57
+  Total elapsed time: +23h17m32s404ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.example.michal.sms_chatpc / u0a105:
+      * com.example.michal.sms_chatpc / u0a105:
+               TOTAL: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+                 Top: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+          (Last Act): 0,38%
+            (Cached): 0,22% (19MB-19MB-19MB/17MB-17MB-17MB over 1)
+
+Summary:
+  * com.example.michal.sms_chatpc / u0a105:
+           TOTAL: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+             Top: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+      (Last Act): 0,38%
+        (Cached): 0,22% (19MB-19MB-19MB/17MB-17MB-17MB over 1)
+
+Run time Stats:
+  SOn /Norm: +1h18m0s585ms
+       Mod : +16m12s277ms
+       Low : +4m16s28ms
+      TOTAL: +1h38m28s890ms
+
+          Start time: 2016-04-27 08:44:00
+  Total elapsed time: +1h38m28s900ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.example.michal.sms_chatpc / u0a105:
+      * com.example.michal.sms_chatpc / u0a105:
+               TOTAL: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+                 Top: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+          (Last Act): 0,38%
+            (Cached): 0,22% (19MB-19MB-19MB/17MB-17MB-17MB over 1)
+
+Summary:
+  * com.example.michal.sms_chatpc / u0a105:
+           TOTAL: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+             Top: 66% (15MB-19MB-28MB/12MB-15MB-23MB over 34)
+      (Last Act): 0,38%
+        (Cached): 0,22% (19MB-19MB-19MB/17MB-17MB-17MB over 1)
+
+Run time Stats:
+  SOn /Norm: +1h18m0s585ms
+       Mod : +16m11s781ms (running)
+       Low : +4m16s28ms
+      TOTAL: +1h38m28s394ms
+
+          Start time: 2016-04-27 08:44:00
+  Total elapsed time: +1h38m28s959ms (partial) libdvm.so chromeview

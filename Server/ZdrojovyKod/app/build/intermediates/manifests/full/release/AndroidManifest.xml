@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bc.michal.sms_chatpc"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="23" />
+
+    <!-- Povolenia potrebne pre odosielanie SMS a prijimanie sprav od pocitaca! -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- Read and write contacts -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.bc.michal.sms_chatpc.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.bc.michal.sms_chatpc.SenderMsg"
+            android:label="@string/send_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bc.michal.sms_chatpc.telephony.MakeCallActivity"
+            android:label="@string/make_call"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

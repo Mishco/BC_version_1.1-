@@ -1,0 +1,87 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.bc.michal.sms_chatpc / u0a61:
+      * com.bc.michal.sms_chatpc / u0a61:
+               TOTAL: 6,0% (15MB-18MB-20MB/12MB-14MB-16MB over 25)
+                 Top: 6,0% (15MB-18MB-20MB/12MB-14MB-16MB over 25)
+          (Last Act): 0,02%
+            (Cached): 2,9% (8,3MB-8,3MB-8,4MB/7,1MB-7,2MB-7,3MB over 2)
+  * com.bc.michal.sms_chatpc / u0a109:
+      * com.bc.michal.sms_chatpc / u0a109:
+               TOTAL: 2,1% (15MB-16MB-18MB/12MB-13MB-14MB over 11)
+                 Top: 2,1% (15MB-16MB-18MB/12MB-13MB-14MB over 11)
+          (Last Act): 0,15% (6,7MB-6,7MB-6,7MB/6,0MB-6,0MB-6,0MB over 1)
+            (Cached): 0,02%
+
+Summary:
+  * com.bc.michal.sms_chatpc / u0a61:
+           TOTAL: 6,0% (15MB-18MB-20MB/12MB-14MB-16MB over 25)
+             Top: 6,0% (15MB-18MB-20MB/12MB-14MB-16MB over 25)
+      (Last Act): 0,02%
+        (Cached): 2,9% (8,3MB-8,3MB-8,4MB/7,1MB-7,2MB-7,3MB over 2)
+  * com.bc.michal.sms_chatpc / u0a109:
+           TOTAL: 2,1% (15MB-16MB-18MB/12MB-13MB-14MB over 11)
+             Top: 2,1% (15MB-16MB-18MB/12MB-13MB-14MB over 11)
+      (Last Act): 0,15% (6,7MB-6,7MB-6,7MB/6,0MB-6,0MB-6,0MB over 1)
+        (Cached): 0,02%
+
+Run time Stats:
+  SOff/Norm: +48m58s669ms
+       Mod : +39m30s900ms
+  SOn /Norm: +7h26m6s660ms
+       Mod : +43m11s120ms
+       Low : +4m28s464ms
+      TOTAL: +9h42m15s813ms
+
+          Start time: 2016-04-26 11:04:57
+  Total elapsed time: +23h47m2s319ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.bc.michal.sms_chatpc / u0a109:
+      * com.bc.michal.sms_chatpc / u0a109:
+               TOTAL: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+                 Top: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+          (Last Act): 0,67% (6,7MB-6,7MB-6,7MB/6,0MB-6,0MB-6,0MB over 1)
+            (Cached): 0,01%
+
+Summary:
+  * com.bc.michal.sms_chatpc / u0a109:
+           TOTAL: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+             Top: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+      (Last Act): 0,67% (6,7MB-6,7MB-6,7MB/6,0MB-6,0MB-6,0MB over 1)
+        (Cached): 0,01%
+
+Run time Stats:
+  SOn /Norm: +1h27m2s160ms
+       Mod : +36m38s80ms
+       Low : +4m18s563ms
+      TOTAL: +2h7m58s803ms
+
+          Start time: 2016-04-27 08:44:00
+  Total elapsed time: +2h7m58s813ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.bc.michal.sms_chatpc / u0a109:
+      * com.bc.michal.sms_chatpc / u0a109:
+               TOTAL: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+                 Top: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+          (Last Act): 0,67% (6,7MB-6,7MB-6,7MB/6,0MB-6,0MB-6,0MB over 1)
+            (Cached): 0,01%
+
+Summary:
+  * com.bc.michal.sms_chatpc / u0a109:
+           TOTAL: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+             Top: 2,1% (15MB-15MB-16MB/12MB-12MB-13MB over 3)
+      (Last Act): 0,67% (6,7MB-6,7MB-6,7MB/6,0MB-6,0MB-6,0MB over 1)
+        (Cached): 0,01%
+
+Run time Stats:
+  SOn /Norm: +1h27m2s160ms
+       Mod : +36m37s587ms (running)
+       Low : +4m18s563ms
+      TOTAL: +2h7m58s310ms
+
+          Start time: 2016-04-27 08:44:00
+  Total elapsed time: +2h7m58s862ms (partial) libdvm.so chromeview

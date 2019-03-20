@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" minWidth="-Infinity" prefHeight="484.0" prefWidth="386.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="BC_sms_app_client.FXMLController">
+    <children>
+        <Button fx:id="send" layoutX="17.0" layoutY="439.0" onAction="#SendSmsHandler" onKeyPressed="#SendSmsHandler" text="Send" />
+      <Button fx:id="connect" layoutX="196.0" layoutY="44.0" mnemonicParsing="false" onAction="#handlerConnect" text="Connect" />
+      <TextArea fx:id="debugMsg" editable="false" layoutX="15.0" layoutY="112.0" prefHeight="168.0" prefWidth="363.0" />
+      <ComboBox fx:id="combobox" layoutX="12.0" layoutY="44.0" prefWidth="150.0" promptText="Select number" />
+      <Button fx:id="addNum" layoutX="293.0" layoutY="44.0" mnemonicParsing="false" onAction="#addNewNumber" text="Add num" />
+      <Label layoutX="15.0" layoutY="91.0" text="Information:" />
+      <Label layoutX="14.0" layoutY="291.0" text="Sms text:" />
+      <Button fx:id="help" layoutX="324.0" layoutY="439.0" mnemonicParsing="false" onAction="#showHelp" text="Help" />
+      <TextArea fx:id="smsMsg" layoutX="17.0" layoutY="311.0" prefHeight="128.0" prefWidth="363.0" wrapText="true" />
+      <Button layoutX="264.0" layoutY="439.0" mnemonicParsing="false" onAction="#exit" text="Exit" />
+    </children>
+</AnchorPane>

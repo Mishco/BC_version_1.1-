@@ -1,0 +1,39 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        41d04368 com.example.michal.sms_chatpc/.MainActivity filter 41d044d8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.example.michal.sms_chatpc]
+      Signing KeySets: 1, 2
+
+Packages:
+  Package [com.example.michal.sms_chatpc] (41df4800):
+    userId=10105 gids=[3003]
+    pkg=Package{42300d80 com.example.michal.sms_chatpc}
+    codePath=/data/app/com.example.michal.sms_chatpc-1.apk
+    resourcePath=/data/app/com.example.michal.sms_chatpc-1.apk
+    nativeLibraryPath=/data/app-lib/com.example.michal.sms_chatpc-1
+    versionCode=1 targetSdk=23
+    versionName=1.0
+    applicationInfo=ApplicationInfo{42300e60 com.example.michal.sms_chatpc}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.example.michal.sms_chatpc
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-04-24 19:05:55
+    firstInstallTime=2016-03-03 17:43:57
+    lastUpdateTime=2016-04-24 19:05:56
+    signatures=PackageSignatures{41df48c8 [41da5d60]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.READ_PHONE_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.CALL_PHONE
+      android.permission.SEND_SMS
+      android.permission.RECORD_AUDIO
+      android.permission.INTERNET

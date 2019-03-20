@@ -1,0 +1,460 @@
+TEST 1
+StopWatch 'My Stop Watch': running time (millis) = 229
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00217  095%  broadcast find server
+00010  004%  technical message
+00002  001%  send a sms file
+
+TEST 2
+StopWatch 'My Stop Watch': running time (millis) = 281
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00204  073%  broadcast find server
+00074  026%  technical message
+00003  001%  send a sms file
+
+TEST 3
+StopWatch 'My Stop Watch': running time (millis) = 279
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00224  080%  broadcast find server
+00045  016%  technical message
+00007  003%  add a new number
+00003  001%  send a sms file
+
+TEST 4
+StopWatch 'My Stop Watch': running time (millis) = 250
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00229  092%  broadcast find server
+00011  004%  technical message
+00007  003%  add a new number
+00003  001%  send a sms file
+
+TEST 5
+StopWatch 'My Stop Watch': running time (millis) = 238
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00006  003%  add a new number
+00218  092%  broadcast find server
+00011  005%  technical message
+00003  001%  send a sms file
+
+TEST 6
+StopWatch 'My Stop Watch': running time (millis) = 241
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00230  095%  broadcast find server
+00009  004%  technical message
+00002  001%  send a sms file
+
+TEST 7
+StopWatch 'My Stop Watch': running time (millis) = 238
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00215  090%  broadcast find server
+00012  005%  technical message
+00008  003%  add a new number
+00003  001%  send a sms file
+
+TEST 8 - Long sms
+StopWatch 'My Stop Watch': running time (millis) = 297
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00282  095%  broadcast find server
+00010  003%  technical message
+00005  002%  send a sms file
+
+TEST 9
+StopWatch 'My Stop Watch': running time (millis) = 245
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00222  091%  broadcast find server
+00021  009%  technical message
+00002  001%  send a sms file
+
+TEST 10
+StopWatch 'My Stop Watch': running time (millis) = 227
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00216  095%  broadcast find server
+00009  004%  technical message
+00002  001%  send a sms file
+StopWatch 'My Stop Watch': running time (millis) = 408
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00362  089%  broadcast find server
+00044  011%  technical message
+00002  000%  send a sms file
+ 
+StopWatch 'My Stop Watch': running time (millis) = 418
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00334  080%  broadcast find server
+00081  019%  technical message
+00003  001%  send a sms file
+ 
+StopWatch 'My Stop Watch': running time (millis) = 10171
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00169  002%  broadcast find server
+10002  098%  technical message
+ 
+StopWatch 'My Stop Watch': running time (millis) = 197
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00186  094%  broadcast find server
+00011  006%  technical message
+ 
+StopWatch 'My Stop Watch': running time (millis) = 10248
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00244  002%  broadcast find server
+10004  098%  technical message
+ 
+StopWatch 'My Stop Watch': running time (millis) = 0
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+ 
+StopWatch 'My Stop Watch': running time (millis) = 691
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00579  084%  broadcast find server
+00109  016%  technical message
+00003  000%  send a sms file
+ 
+StopWatch 'My Stop Watch': running time (millis) = 970
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00542  056%  broadcast find server
+00410  042%  technical message
+00018  002%  send a sms file
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1165
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00944  081%  broadcast find server
+00221  019%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1355
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00545  040%  broadcast find server
+00804  059%  technical message
+00002  000%  send a sms file
+00004  000%  send a sms file
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 777
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00573  074%  broadcast find server
+00204  026%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 826
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00547  066%  broadcast find server
+00279  034%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1460
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00603  041%  broadcast find server
+00854  058%  technical message
+00003  000%  send a sms file
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1705
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00865  051%  broadcast find server
+00840  049%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1439
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00681  047%  broadcast find server
+00758  053%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1379
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00784  057%  broadcast find server
+00595  043%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1397
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00703  050%  broadcast find server
+00694  050%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1559
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00773  050%  broadcast find server
+00786  050%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1346
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00688  051%  broadcast find server
+00658  049%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1614
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00827  051%  broadcast find server
+00787  049%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1645
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00962  058%  broadcast find server
+00683  042%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1410
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00708  050%  broadcast find server
+00702  050%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1545
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00750  049%  broadcast find server
+00795  051%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1177
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00542  046%  broadcast find server
+00635  054%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1178
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00561  048%  broadcast find server
+00617  052%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1172
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00593  051%  broadcast find server
+00579  049%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1305
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00537  041%  broadcast find server
+00768  059%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1403
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00748  053%  broadcast find server
+00655  047%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1410
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00606  043%  broadcast find server
+00804  057%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1253
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00606  048%  broadcast find server
+00647  052%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1392
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00574  041%  broadcast find server
+00818  059%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1318
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00601  046%  broadcast find server
+00717  054%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 1424
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00664  047%  broadcast find server
+00760  053%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 777
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00640  082%  broadcast find server
+00134  017%  technical message
+00003  000%  send a sms file
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 746
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00697  093%  broadcast find server
+00049  007%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 832
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00594  071%  broadcast find server
+00238  029%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 592
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00557  094%  broadcast find server
+00035  006%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 798
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00589  074%  broadcast find server
+00209  026%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 688
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00558  081%  broadcast find server
+00130  019%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 715
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00591  083%  broadcast find server
+00124  017%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 671
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00579  086%  broadcast find server
+00092  014%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 647
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00568  088%  broadcast find server
+00079  012%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 988
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00561  057%  broadcast find server
+00427  043%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 696
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00558  080%  broadcast find server
+00138  020%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 807
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00622  077%  broadcast find server
+00185  023%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 634
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00588  093%  broadcast find server
+00046  007%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 601
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00566  094%  broadcast find server
+00035  006%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 716
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00615  086%  broadcast find server
+00101  014%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 694
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00622  090%  broadcast find server
+00072  010%  technical message
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 703
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+00605  086%  broadcast find server
+00095  014%  technical message
+00003  000%  send a sms file
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 0
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+ 
+StopWatch 'Using RSA crypting': running time (millis) = 0
+-----------------------------------------
+ms     %     Task name
+-----------------------------------------
+ 
